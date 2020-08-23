@@ -1,6 +1,7 @@
 # News_App
 
 A new Flutter project.
+This app shows you news from various interests such as sports, entertainment, general, science etc.
 
 ## Getting Started
 
