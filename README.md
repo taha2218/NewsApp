@@ -2,6 +2,7 @@
 
 A new Flutter project.
 This app shows you news from various interests such as sports, entertainment, general, science etc.
+Look for images folder to find screenshots of the working App !
 
 ## Getting Started
 
